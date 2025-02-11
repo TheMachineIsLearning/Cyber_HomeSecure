@@ -21,7 +21,7 @@ Securing your WiFi router is crucial as it's often the first line of defense for
 - Set a strong WiFi password
   - Minimum 16 characters
   - Change default password even if it appears random
-  - [This tool](https://github.com/Learning-Gen-AI/Cyber_WiFiPasswordGenerator) allows home uses to easily implement strong passwords across multiple devices
+  - [This tool](https://github.com/TheMachineIsLearning/Cyber_ParanoidAndroid) allows home uses to easily implement strong passwords across multiple devices
 - Configure proper encryption
   - Use WPA2 with AES encryption (not TKIP)
   - Use WPA3 if available
